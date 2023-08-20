@@ -7,5 +7,7 @@ pipeline {
                 // Clean workspace and fetch code from Git repository
                 checkout scm
             }
+    
         }
+    }
 }
